@@ -1,0 +1,5 @@
+# typescript gacha
+
+```
+$ tsc
+```
