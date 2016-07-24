@@ -1,0 +1,15 @@
+{
+   "compilerOptions": {
+      "target": "es6",
+      "module": "amd",
+      "declaration": false,
+      "outDir": "js"
+   },
+   "compileOnSave": false,
+   "filesGlob": [
+      "./*.ts"
+   ],
+   "files": [
+      "./main.ts"
+   ]
+}
