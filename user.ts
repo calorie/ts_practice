@@ -11,7 +11,7 @@ class User {
         this.money -= fee;
     }
 
-    can_pay(money: number): boolean {
-        return (0 <= (this.money - money)) ? true : false;
+    can_pay(fee: number): boolean {
+        return (0 <= (this.money - fee)) ? true : false;
     }
 }
